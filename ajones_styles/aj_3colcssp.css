@@ -1,0 +1,144 @@
+body {
+	background-color: #C8C7B5;
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	padding: 0;
+	width: 748px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 24px;
+	margin-left: auto;
+}
+#pagewrapper {
+	background-color: #FFFFFF;
+}
+h1 {
+	color: #B685B4;
+	font-size: 1.6em;
+	font-weight: normal;
+	margin: 0;
+	padding-bottom: 3px;
+}
+#c1 {
+	float: left;
+	width: 180px;
+	border: 1px solid #666666;
+	margin: 0 6px 0 0;
+	background-color: #FFFFFF;
+	background-image: url(../images/aj_pbg.jpg);
+	background-repeat: repeat-x;
+	background-position: 0px 200px;	
+}
+#rightbox {
+	float: right;
+	width: 560px;
+}
+#c2 {
+	float: left;
+	width: 410px;
+	margin-right: 6px;
+	border: 1px solid #666666;
+}
+#c3 {
+	float: right;
+	width: 140px;
+	border: 1px solid #666666;
+	background-image: url(../images/aj_pbg2.jpg);
+	background-repeat: repeat-x;
+	background-position: 0px 120px;
+}
+#layoutwrapper {
+	width: 748px;
+	margin: 0 auto;
+}
+.c1-text {
+	font-size: .75em;
+	padding: 12px;
+}
+.c1-text p {
+	margin: 6px 0 8px 0;
+}
+.c2-text {
+	font-size: 0.8em;
+	padding: 16px 24px;
+}
+.c2-text p {
+	margin: 3px 0 12px 0;
+	line-height: 1.5em;
+}
+.c3-text {
+	font-size: 0.7em;
+	padding: 12px;
+}
+.c3-text p {
+	margin: 3px 0 12px 0;
+}
+.pictureprgh {
+	margin: 0;
+	text-align: center;
+}
+h2 {
+	margin: 0;
+	font-size: 1.4em;
+}
+h3, h4 {
+	margin: 24px 0 0 0;
+	font-size: 1.1em;
+}
+.col-topheading {
+	margin: 16px 12px 0 12px;
+}
+.zeromargin {
+	margin: 0 !important;
+}
+
+.clearit {
+	clear: both;
+	height: 0;
+	line-height: 0;
+	font-size: 1px;
+}
+#footer {
+	border-top: 1px solid #666666;
+	font-size: 0.7em;
+	padding-top: 6px;
+	margin-top: -1px;
+	color: #FFFFFF;
+}
+#footertext {
+	margin: 0 auto;
+	width: 748px;
+}
+.c1-text a:link, .c2-text a:link {
+	color: #A66DA7;
+}
+.c1-text a:visited, .c2-text a:visited {
+	color: #BC93BD;
+}
+.c1-text a:hover, .c1-text a:active, .c1-text a:focus,
+.c2-text a:hover, .c2-text a:active, .c2-text a:focus {
+	color: #77AC7C;
+}
+#footer a:link, #footer a:visited {
+	color: #FFFFFF;
+}
+#footer a:hover, #footer a:active, #footer a:focus {
+	color: #333333;
+}
+#p7PMnav {
+	font-size: .8em;
+	border-bottom: 1px solid #FFFFFF;
+	border-right: 0;
+	border-left: 0;
+	width: 100%;
+}
+#p7PMnav ul {
+	width:13em;
+}
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}

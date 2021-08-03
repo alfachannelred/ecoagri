@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "secure"
+AuthUserFile "/home/ecoagycq/.htpasswds/public_html/html/secure/passwd"
+require valid-user

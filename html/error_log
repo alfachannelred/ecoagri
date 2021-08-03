@@ -1,0 +1,35 @@
+[22-Mar-2012 12:07:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'ecoagycq_admin'@'localhost' (using password: YES) in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:09:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'ecoagycq_admin'@'70.87.28.80' (using password: YES) in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:11:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'ecoagycq_admin'@'70.87.28.80' (using password: YES) in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:13:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:14:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:17:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host '209.62.47.85/ecoagycq_overseas' (1) in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:18:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'ecoagycq_overseas' (1) in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:21:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'ecoagycq_overseas' (1) in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:30:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'localhost@ecoagri.org' (1) in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:31:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host ''localhost'' (2) in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:33:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'http' (1) in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:35:00] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 12:38:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /home/ecoagycq/public_html/html/insert.php on line 3
+[22-Mar-2012 13:09:45] PHP Parse error:  syntax error, unexpected '(', expecting ']' in /home/ecoagycq/public_html/html/insert.php on line 12
+[13-Nov-2015 12:15:37 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined index: txtAmount in /home/ecoagri/public_html/html/donations_india.php on line 7
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined index: txtbilling_cust_name in /home/ecoagri/public_html/html/donations_india.php on line 10
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined index: txtbilling_cust_address in /home/ecoagri/public_html/html/donations_india.php on line 11
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined index: txtbilling_cust_city in /home/ecoagri/public_html/html/donations_india.php on line 12
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined index: txtbilling_cust_state in /home/ecoagri/public_html/html/donations_india.php on line 13
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined index: txtbilling_cust_country in /home/ecoagri/public_html/html/donations_india.php on line 14
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined index: txtbilling_zip_code in /home/ecoagri/public_html/html/donations_india.php on line 15
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined index: txtbilling_cust_tel in /home/ecoagri/public_html/html/donations_india.php on line 16
+[12-Jan-2016 18:49:05 Etc/GMT] PHP Notice:  Undefined index: txtbilling_cust_email in /home/ecoagri/public_html/html/donations_india.php on line 17
+[06-Feb-2016 12:11:18 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[21-Feb-2016 11:07:23 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[21-Feb-2016 17:54:54 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[21-Feb-2016 18:10:46 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[22-Mar-2016 05:17:43 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[06-May-2016 05:34:39 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[14-Jul-2016 06:13:16 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[28-Jul-2016 17:18:29 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/ecoagri/public_html/html/libfuncs.php3 on line 62
+[17-May-2019 13:56:32 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/inagri/public_html/html/libfuncs.php3 on line 62
+[20-May-2019 14:34:30 Etc/GMT] PHP Notice:  Undefined variable: dec in /home/inagri/public_html/html/libfuncs.php3 on line 62

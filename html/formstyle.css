@@ -1,0 +1,27 @@
+/* CSS Document */
+.borderbox{
+	border-left:#afd5b3  1px solid;
+	border-right:#afd5b3 1px solid;
+	border-top: #afd5b3 1px solid;
+	border-bottom: #afd5b3  1px solid;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#669966;
+	font-size:12px;
+	font-weight:bold;
+	}
+.formtextstyle{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#669966;
+	font-size:12px;
+	}
+.formphptextstyle{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#996699;
+	font-size:12px;
+	}
+.formtextstylebold{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#996699;
+	font-size:12px;
+	font-weight:bold;
+	}

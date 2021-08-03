@@ -1,0 +1,98 @@
+/* 
+  -----------------------------------
+  PopMenu Magic Style Sheet
+  by Project Seven Development
+  www.projectseven.com
+  Menu Type: Vertical
+  Style Theme:16 - Anderssen Jones
+  -----------------------------------
+*/
+#p7PMnav {
+	width: 180px;
+	border: 1px solid #666666;
+	margin: 0;
+	padding: 0;
+}
+#p7PMnav li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#p7PMnav ul {
+	margin: 0;
+	padding: 0;
+	border: 1px solid #666666;
+	width: 180px;
+	z-index: 10000;
+}
+#p7PMnav a {
+	display: block;
+	text-decoration: none;
+	background-color: #A1C6A5;
+	border-bottom: 1px solid #A1C6A5;
+	padding: 3px 10px;
+	color: #FFFFFF;
+	line-height:1;
+}
+#p7PMnav a:hover, #p7PMnav a:active, #p7PMnav a:focus {
+	background-color: #C0A3BF;
+	border-bottom: 1px solid #C2DAC5;
+	color: #333333;
+	letter-spacing: 0.01px;
+}
+#p7PMnav ul a {
+	border: 0;
+	background-color: #FFFFFF;
+	color: #B28FB0;
+}
+#p7PMnav ul a:hover {
+	border: 0;
+	color: #FFFFFF;
+}
+
+/* ------ the current page marker style ------ */
+#p7PMnav .p7PMmark {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+/* ------ the trigger link styles ------- */
+
+/*the normal trigger link */
+#p7PMnav .p7PMtrg, #p7PMnav .p7PMon {
+	background-image:  url(img/p7PM_dark_east.gif);
+	background-repeat:	no-repeat;
+	background-position: right center;
+}
+/* the active trigger link style */
+#p7PMnav .p7PMon {
+	background-color: #C0A3BF;
+	border-bottom: 1px solid #C2DAC5;
+	color: #333333;
+}
+#p7PMnav ul .p7PMon {
+	border-bottom: 0;
+}
+
+/*the submenu classes */
+
+#p7PMnav .p7PMhide {
+	left: -9000px;
+	border: 0;
+}
+#p7PMnav .p7PMshow {
+	left: auto;
+	z-index: 20000 !important;
+}
+#pmmcrumb {
+	font-weight: bold;
+	margin-bottom: 16px;
+	color: #333333;
+}
+#pmmcrumb a, #pmmcrumb a:visited {
+	font-weight: normal;
+	color: #5A69A5;
+}
+#pmmcrumb a:hover, #pmmcrumb a:active, #pmmcrumb a:focus {
+	font-weight: normal;
+	color: #333333;
+}

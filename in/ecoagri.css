@@ -1,0 +1,77 @@
+/* CSS Document */
+
+body{
+	background-color: #8A9E8B;
+	margin-top: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#containera {
+background-color: #EAECE2;
+width: 750px;
+border: 1px solid #FFFFFF;
+margin: auto;
+}
+
+#containerb {
+background-color: #EAECE2;
+width: 770px;
+margin: auto;
+}
+.keylinetxt {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: italic;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+p {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 14px;
+	color: #617365;
+	padding-left: 5px;
+	text-align: left;
+}
+
+h1 {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #93442B;
+	padding-left: 5px;
+	text-align: left;
+}
+
+h2 {
+	font-size: 11px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #617365;
+	padding-left: 5px;
+	text-align: left;
+}
+
+h3 {
+	font-size: 11px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #617365;
+	padding-left: 5px;
+	text-align: left;
+}
+.footertxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-transform: uppercase;
+}
+.introtext {
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #000000;
+}
